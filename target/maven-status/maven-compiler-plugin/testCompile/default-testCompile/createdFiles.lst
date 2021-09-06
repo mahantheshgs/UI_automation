@@ -1,0 +1,3 @@
+com\blaze\test\runner\COM_Blaze_Test.class
+com\blaze\test\steps\Hooks.class
+com\blaze\test\steps\StepDef_E2E_FlightBook.class
